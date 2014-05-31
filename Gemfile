@@ -1,4 +1,4 @@
-source 'https://rubygems.taobao.org/'
+source 'https://ruby.taobao.org/'
 ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
